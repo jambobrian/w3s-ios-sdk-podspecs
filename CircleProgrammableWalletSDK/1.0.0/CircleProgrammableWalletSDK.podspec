@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author       = 'CIRCLE'
   s.swift_version = '5.7.1'
   s.platform     = :ios, "11.0"
-  s.source       = { :git => "git@github.com:circlefin/w3s-ios-sdk.git",
+  s.source       = { :git => "git@github.com:jambobrian/w3s-ios-sdk.git",
                      :tag => "master-1.0.0" }
   s.static_framework = true
 
